@@ -15,7 +15,7 @@ DNA_counter=0
 # assingment of variable f to open the data file
 f = open(filename, "r")
 
-# for loop to interate data and count lines with particular key words: yes, no, NA, and DNA
+# for loop to iterate data and count lines with particular key words: yes, no, NA, and DNA
 for line in f.readlines():
     if " yes" in line:
         yes_counter+=1
