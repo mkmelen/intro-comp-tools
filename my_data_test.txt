@@ -1,7 +1,0 @@
-pop rep sampled
-FS_VID A yes
-CC_ALV B no
-CC_GUA B no
-CC_BAI B yes
-CC_LEX B no
-CC_CVR B no
